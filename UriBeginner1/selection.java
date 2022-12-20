@@ -1,3 +1,5 @@
+package UriBeginner1;
+
 import java.util.Scanner;
 
 public class selection {
